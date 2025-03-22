@@ -1,7 +1,7 @@
 "use client";
 
 import { useState, useEffect, useRef } from "react";
-import Loader from "./Loader";
+import Loader from "./Loader.jsx";
 import { AddPhotoAlternate } from "@mui/icons-material";
 import { useSession } from "next-auth/react";
 import Link from "next/link";
