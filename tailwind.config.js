@@ -122,9 +122,6 @@ module.exports = {
         "green-1": "#13E0E0",
         "pink-1": "#FDDAD6",
       },
-      spacing: {
-        '7': '1.75rem', // Ajoute py-7 et autres utilitaires comme p-7, m-7, etc.
-      },
     },
   },
   plugins: [],
